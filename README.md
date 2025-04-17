@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trinabh Gandotra
+- 👋 Hi, I’m Trinabh Gandotra
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning JavaScript 
 - 😄 Pronouns: He/him
